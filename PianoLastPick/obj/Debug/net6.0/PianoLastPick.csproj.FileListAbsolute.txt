@@ -1,0 +1,15 @@
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\bin\Debug\net6.0\PianoLastPick.exe
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\bin\Debug\net6.0\PianoLastPick.deps.json
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\bin\Debug\net6.0\PianoLastPick.runtimeconfig.json
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\bin\Debug\net6.0\PianoLastPick.dll
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\bin\Debug\net6.0\PianoLastPick.pdb
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.csproj.AssemblyReference.cache
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.AssemblyInfoInputs.cache
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.AssemblyInfo.cs
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.dll
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\refint\PianoLastPick.dll
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.pdb
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\PianoLastPick.genruntimeconfig.cache
+C:\Users\Igor\source\repos\PianoLastPick\PianoLastPick\obj\Debug\net6.0\ref\PianoLastPick.dll
